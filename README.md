@@ -38,13 +38,11 @@
     <a href="https://github.com/leenahiq/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=leenahiq
 &theme=react&border=0C1116&hide_border=true&background=0C1116&currStreakNum=58A6FF&sideNums=58A6FF&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="Leenah Iqbal" />
-    </a>
-    <a href="https://github.com/leenahiq/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=leenahiq
-&show_icons=true&theme=react&border=0C1116&hide_border=true&bg_color=0C1116&text_color=C9D1D9&title_color=58A6FF&icon_color=58A6FF" />
-    </a>
+    </a>  -->
+    
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leenahiq&theme=radical&show_icons=true)
   </div>
 </p>
 
- -->
+
 
