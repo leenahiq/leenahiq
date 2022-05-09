@@ -28,21 +28,14 @@
   <img src="https://img.shields.io/badge/NPM-0C1116?logo=npm&logoColor=F7DF1E" alt="NPM logo" title="NPM" height="25" />
   <img src="https://img.shields.io/badge/VS%20Code-0C1116?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
   <img src="https://img.shields.io/badge/figma-0C1116?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Figma" height="25" />
-  
-  
   </p>
+  
+  
 
+   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=leenahiq&theme=radical&show_icons=true)
 
-<!-- <p align=center>
-  <div align=center>
-    <a href="https://github.com/leenahiq/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=leenahiq
-&theme=react&border=0C1116&hide_border=true&background=0C1116&currStreakNum=58A6FF&sideNums=58A6FF&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="Leenah Iqbal" />
-    </a>  -->
-    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leenahiq&theme=radical&show_icons=true)
-  </div>
-</p>
+  
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leenahiq&langs_count=5&theme=tokyonight)]()
 
 
 
