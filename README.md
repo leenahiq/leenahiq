@@ -32,10 +32,10 @@
   
   
 <a href ="https://github.com/rafaballerini">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leenahiq&theme=radical&show_icons=true"/>
+<img height="210em" src="https://github-readme-stats.vercel.app/api?username=leenahiq&theme=radical&show_icons=true"/>
 
   
-<img height="180em" width="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leenahiq&langs_count=5&theme=radical"/>
+<img height="210em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leenahiq&langs_count=5&theme=radical"/>
  </a>
 <!--   ![Snake animation](https://github.com/rafaballerini2/leenahiq/blob/output/github-contribution-grid-snake-svg)
  -->
