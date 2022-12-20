@@ -2,10 +2,9 @@
 
 
 
-- 🔭 I’m currently working on MERN Stack Recipe App
-- 🌱 I’m currently learning UX/UI
+- 🔭 I'm junior software engineer in the Design System @ BBC
+- 🌱 I’m currently obsessing over JavaScript and digging deep into it.
 - 👯 I’m looking to collaborate on full Stack development project
-- 🤔 I’m looking to secure full time employement
 - 💬 Ask me anything about flexbox and media queries.
 - 📫 How to reach me:leeangel_huzy@icloud.com | [LinkedIn](https://www.linkedin.com/in/leenah-iqbal/// "Leenah on LinkedIn")
 - 😄 Pronouns: she/her 
