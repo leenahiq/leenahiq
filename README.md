@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I'm junior software engineer in the Design System @ BBC
+- 🔭 I'm Junior Software Engineer in the Design System @ BBC
 - 🌱 I’m currently obsessing over JavaScript and digging deep into it.
 - 👯 I’m looking to collaborate on full Stack development project
 - 💬 Ask me anything about flexbox and media queries.
