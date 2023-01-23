@@ -2,13 +2,13 @@
 
 
 
-- 🔭 I'm Junior Software Engineer in the Design System @ BBC
+- 🔭 I'm Junior Software Engineer in the Webcore | Design System @ BBC
 - 🌱 I’m currently obsessing over JavaScript and digging deep into it.
 - 👯 I’m looking to collaborate on full Stack development project
-- 💬 Ask me anything about flexbox and media queries.
+- 💬 Feel free to connect on linkedIn and chat about anything.
 - 📫 How to reach me:leeangel_huzy@icloud.com | [LinkedIn](https://www.linkedin.com/in/leenah-iqbal/// "Leenah on LinkedIn")
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I can cook awsome food an take amazing selfies also love to post my work on linkedin
+- ⚡ Fun fact: I'm a mom to three kids, I have no computer or any other digree, I'm self taught mostly from youtube and free online resourses and I've not paid single penny to any premium subscription or coding courses.
 
 
 ### Languages and Tools
